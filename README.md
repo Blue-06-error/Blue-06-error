@@ -1,6 +1,8 @@
-```bash id="s5gq7x"
-$ whoami
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+### 🟢 `whoami`
+
+```bash
 Engineering Student
 Cybersecurity Enjoyer
 Creative Writer Accidentally Spawned Into CSE
@@ -8,9 +10,9 @@ Professional Claude Prompt Engineer (self-proclaimed)
 Future WordPress Plugin Tycoon
 ```
 
-```bash id="0r8m2q"
-$ current_interests
+### 🔥 `current_interests`
 
+```bash
 Cybersecurity
 SEO Tools
 WordPress Development
@@ -18,16 +20,16 @@ Free APIs
 Building Things That Probably Already Exist
 ```
 
-```bash id="n9q4dt"
-$ thought_process
+### 🤡 `thought_process`
 
+```bash
 "Why would anyone pay for this?
 I can build it myself."
 ```
 
-```bash id="6z4r5u"
-$ timeline
+### 📈 `timeline`
 
+```bash
 Day 1:
     Confidence = 100%
 
@@ -43,17 +45,17 @@ Result:
     Character Development +1
 ```
 
-```bash id="j7f1ws"
-$ current_quest
+### ⚔️ `current_quest`
 
+```bash
 Building WordPress plugins
 Developing SEO tools
 Searching for free APIs hidden in forgotten corners of GitHub
 ```
 
-```bash id="f2m8ka"
-$ life_update
+### 🚀 `life_update`
 
+```bash
 Honestly, we're living in strange times.
 
 I can have a terrible idea at 2 PM,
@@ -72,20 +74,26 @@ with Claude, a few AI sidekicks,
 and absolutely zero regard for my sleep schedule.
 ```
 
-```bash id="a1w6nv"
-$ looking_for
+### 🧙 `looking_for`
 
+```bash
 PHP Wizards
 WordPress Veterans
 Terminal Goblins
 People Who Ship Things
 ```
 
-```bash id="h3x9pe"
-$ system_status
+### 📊 `system_status`
 
+```bash
 Status: Building
 Sanity: Segmentation Fault
 Budget: $0
 Current Mission: Replace Paid APIs
 ```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
