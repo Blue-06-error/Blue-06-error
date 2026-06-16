@@ -1,6 +1,3 @@
-# 👋 About Me
-
-```bash
 $ whoami
 
 Engineering Student
@@ -8,52 +5,67 @@ Cybersecurity Enjoyer
 Creative Writer Accidentally Spawned Into CSE
 Professional Claude Prompt Engineer (self-proclaimed)
 Future WordPress Plugin Tycoon
-```
+$ current_interests
 
-```bash
+Cybersecurity
+SEO Tools
+WordPress Development
+Free APIs
+Building Things That Probably Already Exist
 $ thought_process
 
 "Why would anyone pay for this?
 I can build it myself."
-```
+$ timeline
 
-72 hours, 47 tabs, 3 architectural rewrites, and 1 existential crisis later, I discover the secret ingredient was a team of 12 engineers.
+Day 1:
+    Confidence = 100%
 
-Anyway, I'm currently building WordPress plugins, SEO tools, and a growing collection of lessons learned the hard way.
+Day 2:
+    47 tabs open
+    Architecture rewritten twice
 
-Cybersecurity is my favorite rabbit hole, writing is my factory setting, and PHP is the boss fight I'm currently stuck on.
+Day 3:
+    Realized the original product
+    was built by a team of 12 engineers
 
-I hate paid plugins, so I've dedicated myself to diving into the deep waters of the internet in search of obscure free APIs and open-source alternatives. If there's a free solution hidden in a random GitHub repository from 2017, I'm probably already using it.
+Result:
+    Character Development +1
+$ current_quest
 
-Honestly, we're living in strange times. I can have a terrible idea at 2 PM, explain it to Claude at 2:05 PM, and be debugging a prototype by dinner.
+Building WordPress plugins
+Developing SEO tools
+Searching for free APIs hidden in forgotten corners of GitHub
+$ life_update
+
+Honestly, we're living in strange times.
+
+I can have a terrible idea at 2 PM,
+explain it to Claude at 2:05 PM,
+and be debugging a prototype by dinner.
 
 Enjoying the sleepless nights because I can go from:
 
-```text
-"this would be cool"
-        ↓
-"it's running on localhost"
-```
+    "this would be cool"
 
-with Claude, a few AI sidekicks, and absolutely zero regard for my sleep schedule.
+to
 
-```bash
+    "it's running on localhost"
+
+with Claude, a few AI sidekicks,
+and absolutely zero regard for my sleep schedule.
 $ looking_for
 
 PHP Wizards
 WordPress Veterans
 Terminal Goblins
 People Who Ship Things
-```
-
-```bash
 $ system_status
 
 Status: Building
 Sanity: Segmentation Fault
 Budget: $0
 Current Mission: Replace Paid APIs
-```
 
 
 ## 🌐 Socials:
