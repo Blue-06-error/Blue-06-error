@@ -1,5 +1,59 @@
-# 💫 About Me:
-# 👋 About Me<br><br>```bash<br>$ whoami<br><br>Engineering Student<br>Cybersecurity Enjoyer<br>Creative Writer Accidentally Spawned Into CSE<br>Professional Claude Prompt Engineer (self-proclaimed)<br>Future WordPress Plugin Tycoon<br>```<br><br>I keep seeing random SaaS products and thinking:<br><br>> "Why would anyone pay for this? I can build it myself."<br><br>72 hours, 47 tabs, 3 architectural rewrites, and 1 existential crisis later, I discover the secret ingredient was a team of 12 engineers.<br><br>Anyway, I'm currently building WordPress plugins, SEO tools, and a growing collection of lessons learned the hard way.<br><br>Cybersecurity is my favorite rabbit hole, writing is my factory setting, and PHP is the boss fight I'm currently stuck on.<br><br>I hate paid plugins, so I've dedicated myself to diving into the deep waters of the internet in search of obscure free APIs and open-source alternatives. If there's a free solution hidden in a random GitHub repo from 2017, I'm probably already using it.<br><br>Honestly, we're living in strange times. I can wake up, have a terrible idea at 2 PM, explain it to Claude at 2:05 PM, and be debugging a working prototype by dinner.<br><br>Enjoying the sleepless nights because I can literally go from "this would be cool" to "it's running on localhost" with Claude, a few AI sidekicks, and absolutely zero regard for my sleep schedule.<br><br>Looking for PHP wizards, WordPress veterans, and fellow terminal goblins to help turn questionable ideas into production-ready software.<br><br>```bash<br>Status: Building<br>Sanity: Segmentation Fault<br>Budget: $0<br>Current Mission: Replace Paid APIs<br>```
+# 👋 About Me
+
+```bash
+$ whoami
+
+Engineering Student
+Cybersecurity Enjoyer
+Creative Writer Accidentally Spawned Into CSE
+Professional Claude Prompt Engineer (self-proclaimed)
+Future WordPress Plugin Tycoon
+```
+
+```bash
+$ thought_process
+
+"Why would anyone pay for this?
+I can build it myself."
+```
+
+72 hours, 47 tabs, 3 architectural rewrites, and 1 existential crisis later, I discover the secret ingredient was a team of 12 engineers.
+
+Anyway, I'm currently building WordPress plugins, SEO tools, and a growing collection of lessons learned the hard way.
+
+Cybersecurity is my favorite rabbit hole, writing is my factory setting, and PHP is the boss fight I'm currently stuck on.
+
+I hate paid plugins, so I've dedicated myself to diving into the deep waters of the internet in search of obscure free APIs and open-source alternatives. If there's a free solution hidden in a random GitHub repository from 2017, I'm probably already using it.
+
+Honestly, we're living in strange times. I can have a terrible idea at 2 PM, explain it to Claude at 2:05 PM, and be debugging a prototype by dinner.
+
+Enjoying the sleepless nights because I can go from:
+
+```text
+"this would be cool"
+        ↓
+"it's running on localhost"
+```
+
+with Claude, a few AI sidekicks, and absolutely zero regard for my sleep schedule.
+
+```bash
+$ looking_for
+
+PHP Wizards
+WordPress Veterans
+Terminal Goblins
+People Who Ship Things
+```
+
+```bash
+$ system_status
+
+Status: Building
+Sanity: Segmentation Fault
+Budget: $0
+Current Mission: Replace Paid APIs
+```
 
 
 ## 🌐 Socials:
